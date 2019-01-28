@@ -1,9 +1,10 @@
 package com.melnik.figuresFX.controller.figures;
 
+import com.melnik.figuresFX.drawUtils.DrawAble;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
 
-public abstract class Figure {
+public abstract class Figure implements DrawAble {
     public static final int FIGURE_TYPE_CIRCLE = 0;
     public static final int FIGURE_TYPE_RECTANGLE = 1;
     public static final int FIGURE_TYPE_TRIANGLE = 2;

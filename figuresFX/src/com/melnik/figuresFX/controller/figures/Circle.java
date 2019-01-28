@@ -13,7 +13,7 @@ public class Circle extends Figure {
 
     public Circle(double cx, double cy, double lineWeight, Color color, double radius) {
         this(cx, cy, lineWeight, color);
-        this.radius = radius;
+        this.radius = radius < 15 ? 15 : radius;
     }
 
     public double getRadius() {
