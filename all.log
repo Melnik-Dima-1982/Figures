@@ -1,0 +1,5 @@
+09:57:48.218 [main] INFO  com.melnik.figuresFX.FiguresFxApp - Start application
+09:57:52.897 [JavaFX Application Thread] INFO  com.melnik.figuresFX.FiguresFxApp - Added 11 figures.
+09:57:55.344 [JavaFX Application Thread] INFO  com.melnik.figuresFX.FiguresFxApp - Added 5 figures.
+09:57:58.500 [JavaFX Application Thread] INFO  com.melnik.figuresFX.FiguresFxApp - Added 8 figures.
+09:57:59.158 [main] INFO  com.melnik.figuresFX.FiguresFxApp - Final application
